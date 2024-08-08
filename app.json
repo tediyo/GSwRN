@@ -1,8 +1,4 @@
 {
   "name": "MyNewProject",
-  "displayName": "MyNewProject",
-  "expo": {
-    "name": "My app",
-    "slug": "my-app"
-  }
+  "displayName": "MyNewProject"
 }
