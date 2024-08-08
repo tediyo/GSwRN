@@ -4,7 +4,7 @@ import { SafeAreaView, Text, StyleSheet } from 'react-native';
 const App = () => {
   return (
     <SafeAreaView style={styles.container}>
-      <Text style={styles.text}>Hello, This is React Native!</Text>
+      <Text style={styles.text}>Hello, This is React Native First Demo!</Text>
     </SafeAreaView>
   );
 };
